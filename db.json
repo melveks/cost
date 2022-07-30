@@ -1,0 +1,85 @@
+{
+  "projects": [
+    {
+      "name": "Criativas",
+      "budget": "10000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 21,
+      "services": [
+        {
+          "name": "Design",
+          "cost": "6.000",
+          "description": "Design",
+          "id": "550903de-8382-4060-b328-40c65ec7396c"
+        },
+        {
+          "name": "Design",
+          "cost": "6.000",
+          "description": "Design",
+          "id": "c9bc2fc5-c02b-40cb-a72a-31ccac4b89c9"
+        },
+        {
+          "name": "Design",
+          "cost": "6.000",
+          "description": "Design",
+          "id": "c9bc2fc5-c02b-40cb-a72a-31ccac4b89c9"
+        }
+      ],
+      "id": 34
+    },
+    {
+      "name": "Clinica de estética ",
+      "budget": "15000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 35
+    },
+    {
+      "name": "Site veterinária",
+      "budget": "7000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 36
+    },
+    {
+      "name": "Site shooping",
+      "budget": "50000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 37
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
