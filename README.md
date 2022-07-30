@@ -1,3 +1,64 @@
+Site que faz a gestão de projetos
+
+
+Com um formulário que tem um select que dá a opção de vários departamentos , cria o projeto e dentro dele pode adicionar os custos que cada funcionalidade vai ter, dizendo o valor total do projeto.
+Conexão com API e base de dados fictícia.
+
+React hooks.
+
+Projeto do curso do Professor Matheus Batistti
+
+Para iniciar projeto na raiz do projeto no cmd digitar npm install, para iniciar a base de dados em outra aba do cmd digitar npm run build.
+
+
+
+![costs1](https://user-images.githubusercontent.com/101298802/181991873-55650fc1-7689-4c98-8c01-5044f31c47d4.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![costs4](https://user-images.githubusercontent.com/101298802/181994037-17ee135f-cac0-4cc6-b057-88c5b0e13dd2.png)
+
+
+
+
+
+
+
+
+![costs2](https://user-images.githubusercontent.com/101298802/181992403-8a5e8eea-b282-48f0-82ca-eb84e02a1392.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![costs3](https://user-images.githubusercontent.com/101298802/181992582-9156e02b-f740-425d-b38a-549dfd11702b.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
